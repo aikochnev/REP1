@@ -33,11 +33,11 @@
 <img src = "img/rep-04.png" width = 100%>
 
 <img src = "img/rep-05.png" width = 100%>
+
+<img src = "img/rep-06.png" width = 100%>
 ---
 
 ### Задание 2
-
-<img src = "img/rep-02.png" width = 100%>
 
 Вертикальное разделение (по таблицам)
 
